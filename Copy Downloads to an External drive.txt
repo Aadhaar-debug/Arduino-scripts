@@ -1,5 +1,5 @@
 #include <Keyboard.h>
-
+importying the libraries
 void typeKey(uint8_t  key)
 {
   Keyboard.press(key);
