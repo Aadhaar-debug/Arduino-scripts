@@ -12,7 +12,7 @@ void setup()
 {
   Keyboard.begin();
 
-  delay(500);
+  delay(1000);
   
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
